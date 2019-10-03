@@ -20,8 +20,8 @@ Also, I felt site_order may also be relevant to area, hence grouped by this colu
 
 So, Question1 has two solutions :
 
-###Answer for question1. 
-####|site_order|count_by_site|
+### Answer for question1. 
+#### |site_order|count_by_site|
 
 |         1|        90962|
 
@@ -35,7 +35,7 @@ So, Question1 has two solutions :
 
 +-----------+---------------+
 
-####|street_name|count_by_street|
+#### |street_name|count_by_street|
 
 |     Sunset|           3539|
 
@@ -48,9 +48,9 @@ So, Question1 has two solutions :
 |      Geary|           1628|
 
 
-###Answer for question 2:
+### Answer for question 2:
 
-####|           tree_name|count_by_tree|
+#### | tree_name|count_by_tree|
 
 |                    |        14772|
 
@@ -67,5 +67,5 @@ So, Question1 has two solutions :
 |         Cherry Plum|         6728|
 
 
-###3.Cherry Plum DPW Maintained Count :121
-###4.Banyan Fig with Permit Number Count :144
+### 3.Cherry Plum DPW Maintained Count :121
+### 4.Banyan Fig with Permit Number Count :144
