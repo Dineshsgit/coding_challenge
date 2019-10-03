@@ -1,0 +1,8 @@
+{
+  "input_directory": "/Users/dinesh.veluri/Documents/coding_challenge/inputs/",
+  "output_directory": "/Users/dinesh.veluri/Documents/coding_challenge/outputs/",
+  "infer_schema": "true",
+  "header": "true",
+  "file_type": "csv"
+
+}
